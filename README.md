@@ -11,6 +11,15 @@ Please keep it clean and fun. Porn entries are not permitted, please focus on th
  * 20% - Does it leave the visitor with something to think about?
  * 20% - How hot is the overall experience? 
 
+<a name="admin"></a>
+# Admin
+
+Please include this markdown somewhere in your entry, linking back to [#boobhack](http://boobhack.com)
+> <pre>a [#boobhack](http://boobhack.com) entry</pre>
+
+It will look like this: 
+> a [#boobhack](http://boobhack.com) entry
+
 <a name="entries"></a>
 # Entries
 
@@ -19,3 +28,5 @@ Please add your entry to the list below by forking+pull requesting [README.md he
  * [http://keyhole.fun](http://keyhole.fun) - an interactive peephole
  * [http://boobtoob.fun](http://boobtoob.fun) - Mobile friendly, full-screen where possible
  * [http://boob.media](http://boob.media) - remakings of drag-interactive screen-based content, starting with a skeuomorphic TV
+ 
+ 
