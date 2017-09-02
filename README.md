@@ -3,6 +3,7 @@
 [#boobhack](http://boobhack.com) is a series of artistic interactives focused on breasts, colloquially known as boobs. 
 Please keep it clean and fun. Porn entries are not permitted, please focus on the boobs.
 
+<a name="judging"></a>
 # Judging
  * 20% - How artfully are the boob(s) presented? 
  * 20% - How interesting is the interactive?
@@ -10,6 +11,7 @@ Please keep it clean and fun. Porn entries are not permitted, please focus on th
  * 20% - Does it leave the visitor with something to think about?
  * 20% - How hot is the overall experience? 
 
+<a name="entries"></a>
 # Entries
 
 Please add your entry to the list below by forking+pull requesting [README.md here](https://github.com/yosun/boobhack/)
