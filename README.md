@@ -8,7 +8,7 @@ Please keep it clean and fun. Porn entries are not permitted, please focus on th
  * 20% - How artfully are the boob(s) presented? 
  * 20% - How interesting is the interactive?
  * 20% - Does it contribute to computer graphics research in boob movement-simulation physics? 
- * 20% - Does it leave the visitor with something to think about?
+ * 20% - How alluring or profound is it? 
  * 20% - How hot is the overall experience? 
 
 <a name="admin"></a>
