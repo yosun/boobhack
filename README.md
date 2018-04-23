@@ -25,8 +25,8 @@ It will look like this:
 
 Please add your entry to the list below by forking+pull requesting [README.md here](https://github.com/yosun/boobhack/)
 
- * [http://keyhole.fun](http://keyhole.fun) - an interactive peephole
+ * [http://keyhole.fun](http://keyhole.fun) - an interactive peephole [https://github.com/yosun/keyhole.fun](github)
  * [http://boobtoob.fun](http://boobtoob.fun) - Mobile friendly, full-screen where possible
- * [http://boob.media](http://boob.media) - remakings of drag-interactive screen-based content, starting with a skeuomorphic TV
+ * [http://boob.media](http://boob.media) - remakings of drag-interactive screen-based content, starting with a skeuomorphic TV [https://github.com/yosun/boob.media](github)
  
  
